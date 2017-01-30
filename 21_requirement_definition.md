@@ -23,10 +23,7 @@ Return within 3 seconds | 3秒以内で応答する | san byou inai de outou sur
 Our target response time is that the 90th percentile transaction return within 3 senconds. | データを入力してからの応答は９０パーセンタイルの電文が３秒以内で応答することを目標とする。 | de-ta wo nyuuryoku site kara no outou wa kyuujuu 
 pa-sentairu no denbun ga san byou inai de outou suru koto wo moku hyou tosuru | mục tiêu của chúng ta là 90% giao dịch có thời gian phản hồi trong vòng 3 giây. | ムッ(ク)　ティウ　クォウ　チュン　ター　ラー　チン　ムイ　ファン　チャン　ザオ　ジック　コートイ　ザン　ファン　ホイ　チョン　ヴォン　バー　ジェイ
 What we are trying to achieve | 求めるもの（達成しようとしているもの） | motomeru mono (tassei shiyou toshite irumono) | thứ chúng ta muốn | トゥー　チュン　ター　ムオン
-Concentrate on | 専念する | sennen suru	tập trung vào | タッ(プ)　チュン　ヴアオ
-Instead of discussing how we are going to materialize 
-this, lets concentrate on clarifying what 
-we are trying to achieve | どうやって実現するのかを議論したくなってしまうところをこらえて、何を求めているのかを明確化することに専念しよう。 | dou yatte jitsgen suru noka wo giron sitakunatte shimau 
-tokoro wo koraete, nani wo motomete iru noka wo meikakukasuru koto ni sennen shiyou | thay vì thảo luận làm thế nào để hiện thực hóa, chúng ta cần tập trung làm rõ thứ chúng ta muốn | タイ　ヴィ　タオ　ルアン　ラン　テー　ナオ　デー ヒェン　トゥク(⤵︎)　ホア、チュン　ター　クァン　タッ　チュン　ラン　ロー　トゥー チュン　ター　ムオン
+Concentrate on | 専念する | sennen suru	tập trung vào | | タッ(プ)　チュン　ヴアオ
+Instead of discussing how we are going to materialize this, lets concentrate on clarifying what we are trying to achieve | どうやって実現するのかを議論したくなってしまうところをこらえて、何を求めているのかを明確化することに専念しよう。 | dou yatte jitsgen suru noka wo giron sitakunatte shimau tokoro wo koraete, nani wo motomete iru noka wo meikakukasuru koto ni sennen shiyou | thay vì thảo luận làm thế nào để hiện thực hóa, chúng ta cần tập trung làm rõ thứ chúng ta muốn | タイ　ヴィ　タオ　ルアン　ラン　テー　ナオ　デー ヒェン　トゥク(⤵︎)　ホア、チュン　ター　クァン　タッ　チュン　ラン　ロー　トゥー チュン　ター　ムオン
 Requirement definition document | 要件定義書 | youken teigi sho | tài liệu xác định yêu cầu | タイ　リョウ　サッ(ク)　ディン　イヨ　クォウ
 Frequently change | コロコロ変わる | korokoro kawaru | thay đổi thường xuyên | タイ　ドイ　トゥン　スエン
