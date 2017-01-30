@@ -9,10 +9,7 @@ Document | 文書化する | bunshoka suru | tạo tài liệu | タオ　タイ
 Make it concrete | 具体的にする | gutaiteki ni suru | cụ thể hóa | クー　テイ　ホァー
 Implement functions | 機能を実装する | kinou wo jissou suru | cài đặt chức năng | カイ　ダッ(ト)　ツック　ナン
 Real-time reference function | リアルタイム照会機能 | riarutaimu shoukai kinou | chức năng tham khảo thời gian thực | ツック　ナン　タム　カオ　トイ　ジャン　トッ(ク)
-To meet application requirements, we need to implement 
-real-time reference functions through the Internet | この業務要件を満たすためには、 Webからのリアルタイム照会機能を実装する必要がある | kono gimu youken wo mitasu tame ni wa, web kara no 
-riarutaimu shoutai kinou wo jissou suru hitsuyou ga aruf | để thỏa mãn yêu cầu nghiệp vụ, 
-tạo nhanh các chức năng tham khảo là cần thiết. | デー　トア　マン　イヨ　クォウ　ニョ　ゔ、タオ　ニャイン　ツック　ナン　タン　カオー　ラー　クァン　ティエ(ト)
+To meet application requirements, we need to implement real-time reference functions through the Internet | この業務要件を満たすためには、 Webからのリアルタイム照会機能を実装する必要がある | kono gimu youken wo mitasu tame ni wa, web kara no riarutaimu shoutai kinou wo jissou suru hitsuyou ga aruf | để thỏa mãn yêu cầu nghiệp vụ, tạo nhanh các chức năng tham khảo là cần thiết. | デー　トア　マン　イヨ　クォウ　ニョ　ゔ、タオ　ニャイン　ツック　ナン　タン　カオー　ラー　クァン　ティエ(ト)
 Must have requirement | 譲れない要件 | yuzurenai youken | yêu cầu bắt buộc | イエウ　クォウ　バッ(ト)　ブォ(ク)
 The subscription function that is available for all 
 of the smartphone models is a must-have requirement. | スマートホンの全機種から申し込む機能は、絶対に譲れない機能要件だ。  | sumaatohon no zenkishu kara moushikomu kinou wa, zettaini yuzurenai kinou youken  | chức năng đăng ký cho tất cả điện thoại thông minh là một yêu cầu bắt buộc | ツック　ナン　ダン キー　チョオ　タッ　カー ディエン　トァイ　トン　ミン　ラー　モッ イヨ　クォウ　バッ(ト)　ブォ(ク)
